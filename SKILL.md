@@ -4,7 +4,7 @@ description: Systematically excavate the class, privilege, and status assumption
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3602
+  version: 1.0.3603
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - class-archaeology
